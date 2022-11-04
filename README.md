@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaroCrafter!
 - 👀 I’m interested in making useful/cool apps.
 - 🌱 I’m currently learning python!
-- 📫 You can reach out to me on discord: Maro#5804
+- 📫 You can reach out to me on discord: Maro#9999
 - 🐈 cat
 
 <!---
